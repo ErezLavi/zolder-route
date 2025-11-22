@@ -13,4 +13,3 @@ This repository contains a data analysis script focused on the Circuit Zolder ro
 - Import and process route data (coordinates, elevation)
 - Generate relevant statistics for track analysis
 - Visualize altitude profiles and route maps
-- Modular design for easy extension
